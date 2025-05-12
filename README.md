@@ -61,13 +61,13 @@ Este repositorio se distribuye con fines exclusivamente académicos y de investi
 
 - El archivo collect_data.py pertenece a su autor original, Scott Williams, y se incluye respetando sus condiciones de uso público.
 
-##📬 Contacto
+## 📬 Contacto
+
 Para sugerencias, colaboración o consultas relacionadas con este trabajo:
 
-Carlos Flores
-Maestría en Ciencia de Datos
+**Carlos Flores**  
+Maestría en Ciencia de Datos  
 Universidad San Francisco de Quito
 carloscadena.flores@gmail.com
-
 
 
